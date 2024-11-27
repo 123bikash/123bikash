@@ -1,23 +1,18 @@
 <h1 align="center">Hi 👋, I'm Bikash Sharma</h1>
-<h3 align="center">A passionate data analyst from India</h3>
+<h3 align="center">A passionate data analyst</h3>
 
 - 🔭 I’m currently working on Multiple Projects.
 
-- 🌱 I’m currently learning **Analytics with Python**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👯 I’m looking to collaborate on Data science related Projects.
 
-- 🤝 I’m looking for help with [--yet to come--](--yet to come--)
-
 - 👨‍💻 All of my projects are available in the Github Repository.
 
-- 📝 I regularly write articles on [--not yet--](--not yet--)
-
-- 💬 Ask me about **SQL, Power BI, Excel**
+- 💬 Ask me about **SQL, Power BI, Excel, Python, pandas, Numpy, OpenCV, TensorFlow**
 
 - 📫 How to reach me **sharmabikash6592@gmail.com**
 
-- 📄 Know about my experiences [--yet to come-](--yet to come-)
 
 - ⚡ Fun fact **I love music.**
 
